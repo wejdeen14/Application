@@ -17,6 +17,16 @@ Cette application PHP permet de gérer les étudiants, les cours et l'enseigneme
 - **MySQL** 
 - **HTML/CSS** 
 - **Sessions et Cookies** 
+## Captures d'écran
+
+Voici quelques captures d'écran de l'application :
+
+![Page de gestion des cours](img/cours.png)
+![Page de la base de données](img/base.png)
+![Page d'inscription](img/inscrire.png)
+![Page de la liste des étudiants](img/liste.png)
+![Page de connexion](img/login.png)
+![Page de choix](img/choix.png)
 
 ## Installation
 
